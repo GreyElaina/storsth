@@ -1,0 +1,15 @@
+[project]
+name = "storsth"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "GreyElaina", email = "GreyElaina@outlook.com"},
+]
+dependencies = []
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"

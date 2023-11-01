@@ -1,0 +1,7 @@
+{
+    "exclude": [".venv"],
+    "pythonVersion": "3.9",
+    "venv": ".venv",
+    "venvPath": ".",
+    "typeCheckingMode": "basic",
+}
